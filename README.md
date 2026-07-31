@@ -20,30 +20,6 @@ I enjoy learning by creating practical projects and documenting my progress one 
 
 ---
 
-# 💻 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode" />
-</p>
-
----
-
-# 🌱 Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,spring" />
-</p>
-
-Currently focused on:
-
-- HTML, CSS & JavaScript
-- Git & GitHub
-- Linux Fundamentals
-- Docker
-- Responsive Web Development
-
----
-
 # 🎯 Career Interests
 
 - ☁️ Cloud Computing
