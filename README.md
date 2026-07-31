@@ -3,108 +3,70 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;IT+Infrastructure+Intern;Future+DevOps+%26+Cloud+Engineer;Building+projects+one+commit+at+a+time." />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Systems+Analysis+and+Development+Student;IT+Infrastructure+Intern;Future+Cloud+%26+DevOps+Engineer;Building+projects+one+commit+at+a+time." />
 </p>
 
 ---
 
-<h2 align="center">👩🏻‍💻 About Me</h2>
+# 👋 About Me
 
-<p align="center">
-I'm a <b>Systems Analysis and Development</b> student from <b>Brazil 🇧🇷</b> currently working as an <b>IT Infrastructure Intern</b>.
-</p>
+Hi! I'm **Kamilly**, a Systems Analysis and Development student from Brazil 🇧🇷.
 
-<p align="center">
-My journey started with <b>web development</b>, <b>databases</b>, and <b>programming</b>, but during my internship I discovered a passion for <b>infrastructure</b>, <b>automation</b>, and <b>cloud computing</b>.
-</p>
+I'm currently working as an **IT Infrastructure Intern**, where I discovered my interest in infrastructure, automation and cloud technologies.
 
-<p align="center">
-Today, my goal is to become a <b>Software Engineer</b> capable of designing, developing, deploying, and maintaining complete software solutions.
-</p>
+Right now, I'm strengthening my programming fundamentals through **Front-end development** while building the skills that will support my journey toward **Cloud Computing**, **DevOps**, and **Software Engineering**.
 
-<p align="center">
-I believe the best way to learn is by building real projects and improving one commit at a time. 💙
-</p>
-
-<br>
+I enjoy learning by creating practical projects and documenting my progress one repository at a time.
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+# 📊 GitHub Stats
 
-<p align="center">
-Languages • Databases • Tools
+<p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KamSeara&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamSeara&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode"/>
+---
+
+# 💻 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode" />
 </p>
 
-<br>
-
 ---
 
-<h2 align="center">⚡ Currently Learning</h2>
+# 🌱 Currently Learning
 
-<p align="center">
-Always learning something new 🚀
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,spring" />
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,docker,azure,spring"/>
-</p>
+Currently focused on:
 
-<br>
-
----
-
-<h2 align="center">🌱 Current Journey</h2>
-
-```text
-💻 Building my Software Engineering portfolio
-
-🌐 Developing Front-end projects
-
-☁️ Learning Cloud Computing
-
-⚙️ Exploring DevOps & Automation
-
-🚀 Growing one project at a time
-```
-
-<br>
+- HTML, CSS & JavaScript
+- Git & GitHub
+- Linux Fundamentals
+- Docker
+- Responsive Web Development
 
 ---
 
-<h2 align="center">🎯 2026 Goals</h2>
+# 🎯 Career Interests
 
-- [ ] Finish my Systems Analysis and Development degree
-- [ ] Build a professional portfolio
-- [ ] Master Git & GitHub
-- [ ] Improve my Front-end Development skills
-- [ ] Learn Docker
-- [ ] Learn Linux
-- [ ] Learn Cloud Computing
-- [ ] Learn CI/CD
-- [ ] Earn my first Software Engineering position
-
-<br>
+- ☁️ Cloud Computing
+- ⚙️ DevOps
+- 💻 Software Engineering
+- 💻 Software Developer
+- 🤖 Automation
+- 🚀 Infrastructure
 
 ---
 
-<h2 align="center">⚙️ Featured Projects</h2>
+# 📫 Connect With Me
 
-| 🚀 Project | 📖 Description | 🛠️ Status |
-|------------|---------------|-----------|
-| 🌐 Arena Website | Institutional website built with HTML, CSS and JavaScript for Arena Saúde e Lazer. | ✅ Finished |
-| 🚀 DevOps Roadmap | My personal roadmap documenting my journey toward DevOps, Cloud and Software Engineering. | 🟢 Active |
-| 📦 Coming Soon... | New projects will be added as I continue learning and building. | 🚧 Soon |
-
----
-
-<h2 align="center">📫 Connect With Me</h2>
-
-<p align="center">
 <a href="mailto:kamiseara14@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -112,12 +74,7 @@ Always learning something new 🚀
 <a href="https://www.linkedin.com/in/kamillysearasantos">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-</p>
 
 ---
 
-<p align="center">
-
-### 💙 *"Turning curiosity into technology, one project at a time."*
-
-</p>
+> 💙 *"Learning by building. Growing one project at a time."*
