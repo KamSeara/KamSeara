@@ -20,12 +20,20 @@ I enjoy learning by creating practical projects and documenting my progress one 
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KamSeara&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=KamSeara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="Kamilly's GitHub Stats"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamSeara&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamSeara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Kamilly's Most Used Languages"
+  />
 </p>
 
 ---
