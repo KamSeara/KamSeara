@@ -1,5 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/8d67ac79-1b2b-40b8-b879-b58a158b44d3" alt="Kamilly Seara Banner" />
+  <img
+    width="100%"
+    src="https://github.com/user-attachments/assets/8d67ac79-1b2b-40b8-b879-b58a158b44d3"
+    alt="Kamilly Seara Banner"
+  />
 </p>
 
 <p align="center">
