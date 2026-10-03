@@ -43,4 +43,4 @@ I enjoy learning by creating practical projects and documenting my progress one 
 
 ---
 
-> 💙 *"Learning by building. Growing one project at a time."*
+> 💙 *"Learning by building."*
