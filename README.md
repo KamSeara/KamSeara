@@ -34,27 +34,6 @@ I enjoy learning by creating practical projects and documenting my progress one 
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/KamSeara/KamSeara/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/KamSeara/KamSeara/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="Kamilly's GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/KamSeara/KamSeara/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
----
-
 # 📫 Connect With Me
 
 <a href="mailto:kamiseara14@gmail.com">
